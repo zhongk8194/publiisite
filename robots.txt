@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://zhongk8194.github.io/publiisite/sitemap.xml
